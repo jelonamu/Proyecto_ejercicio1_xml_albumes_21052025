@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion nombre="Mi colección de fotografías" propietario="JESÚS">
+    <albumes>
+        <Album nombre="Bodas">
+            <foto>
+                <lugar>Madrid</lugar>
+                <fecha>ENERO</fecha>
+            </foto>
+            <foto>
+                <lugar>Madrid</lugar>
+                <fecha>ENERO</fecha>
+            </foto>
+        </album>
+        <Album nombre="Bautizo">
+            <foto>
+                <lugar>Pozuelo</lugar>
+                <fecha>ENERO</fecha>
+            </foto>
+            <foto>
+                <lugar>Tordesillas</lugar>
+                <fecha>ENERO</fecha>
+            </foto>
+        </album>
+    </albumes>
+</coleccion>

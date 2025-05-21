@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion nombre="Música de cine" propietario="JESÚS">
+    <disco nombre="La Mision">
+        <película>
+            <compositor>Morricone</compositor>
+            <fecha>ENERO</fecha>
+            <premio>Holiwood</premio>
+        </película>
+    </disco>
+    <disco nombre="El graduado">
+        <película>
+            <compositor>Morricone</compositor>
+            <fecha>ENERO</fecha>
+            <premio>Holiwood</premio>
+        </película>
+    </disco>
+</coleccion>

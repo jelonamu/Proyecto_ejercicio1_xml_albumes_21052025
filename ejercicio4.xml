@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curso [
+    <!ELEMENT curso (nombre, descripcion?, (profesor | tutor)+, modulo*)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT profesor (#PCDATA)>
+<!ELEMENT tutor (#PCDATA)>
+<!ELEMENT modulo (titulo, leccion+)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT leccion (#PCDATA)>
+]>
+<curso>
+    <nombre>Informática aplicada</nombre>
+    <descripcion>todo sobre la informatica aplicada a la industria del comercio electrónica y bla, bla, bla</descripcion>
+    <profesor>Laura Gomez</profesor>
+    <profesor>Laura Pérez</profesor>
+    <modulo>
+        <título></título>
+        <lección></lección>  
+    </modulo>
+
+    <tutor></tutor>
+    <modulo></modulo>
+    <título></título>
+    <lección></lección>
+</curso>
